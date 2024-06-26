@@ -42,7 +42,7 @@ I am a Junior student in NEU, China.
 		<td>MySQL, MongoDB, Redis</td>
 	</tr>
   <tr>
-		<th>Development tools</th>
+		<th>Development Tools</th>
 		<td>IntelliJ IDEA, Visual Studio Code & Enterprise, Git, Postman, JMeter</td>
 	</tr>
   <tr>
