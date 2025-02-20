@@ -27,7 +27,7 @@ I am a Junior student in NEU, China.
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>Java, Python, Golang, C,  ECMAScript and HTML </td>
+		<td>ECMAScript, CSS3 and HTML, Java, Python, Golang, C </td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
