@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 I am a Junior student in NEU, China. 
 
 
-- 🌱 I’m currently learning Java(Spring Series), Python(Django or Flask), Vue.js 3, Golang ...
-- 😄 Pronouns: He/His, or in Chinese, ta.
+- 🌱 I’m currently learning Vue.js 3, Golang , Python ...
+- 😄 Pronouns: He/His, or in Chinese, ta（他）.
 
 #### Technologies
 
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>ECMAScript, CSS3 and HTML, Java, Python, Golang, C </td>
+		<td>ECMAScript, CSS3 and HTML,Golang,Python, Java,   C </td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
