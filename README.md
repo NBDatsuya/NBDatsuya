@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Summary
-I am a Junior student in NEU, China. 
+I am a toy builder, co-founder of SNAMC. 
 
 
 - 🌱 I’m currently learning Vue.js 3, Golang , Python ...
