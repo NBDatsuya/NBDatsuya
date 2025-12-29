@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a toy builder, co-founder of SNAMC. 
 
 
-- 🌱 I’m currently learning Vue.js 3, Golang , Python ...
+- 🌱 I’m currently learning Kotlin, Compose Multiplatform ...
 - 😄 Pronouns: He/His, or in Chinese, ta（他）.
 
 #### Technologies
@@ -27,7 +27,7 @@ I am a toy builder, co-founder of SNAMC.
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>ECMAScript, CSS3 and HTML,Golang,Python, Java,   C </td>
+		<td>JavaScript, CSS3 and HTML, Golang, Python, Java, C, Kotlin</td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
