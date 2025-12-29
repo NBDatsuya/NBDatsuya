@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a toy builder, co-founder of SNAMC. 
 
 
-- 🌱 I’m currently learning Kotlin, Compose Multiplatform ...
+- 🌱 I’m currently learning Kotlin, Compose Multiplatform (Compose DSL & Kuikly DSL) ...
 - 😄 Pronouns: He/His, or in Chinese, ta（他）.
 
 #### Technologies
@@ -35,7 +35,7 @@ I am a toy builder, co-founder of SNAMC.
 	</tr>
   <tr>
 		<th>Frontend Technologies</th>
-		<td>Vue.js 3 & Nuxt.js, a little Android Compose, Flutter and React</td>
+		<td>Vue.js 3 & Nuxt.js, Compose Multiplatform </td>
 	</tr>
   <tr>
 		<th>Database</th>
