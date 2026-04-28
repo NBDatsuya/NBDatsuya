@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 #### Summary
 I am a toy builder, co-founder of SNAMC. 
-You can call me Zandar or Saša（Sasha） when it comes to games.
+
+You can call me Zandar or Saša(Sasha) when it comes to games.
 
 
 - 🌱 I’m currently learning Agent vibe coding, Vue.js 3 and React ...
