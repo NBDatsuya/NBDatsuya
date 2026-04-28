@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 #### Summary
 I am a toy builder, co-founder of SNAMC. 
+You can call me Zandar or Saša（Sasha） when it comes to games.
 
 
-- 🌱 I’m currently learning Kotlin, Compose Multiplatform (Compose DSL & Kuikly DSL) ...
+- 🌱 I’m currently learning Agent vibe coding, Vue.js 3 and React ...
 - 😄 Pronouns: He/His, or in Chinese, ta（他）.
+- 📫 How to reach me: huangsamuel@foxmail.com
 
 #### Technologies
 
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>JavaScript, CSS3 and HTML, Golang, Python, Java, C, Kotlin</td>
+		<td>JavaScript, CSS and HTML, Golang, Python, Java, C, Kotlin</td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
@@ -35,7 +37,7 @@ I am a toy builder, co-founder of SNAMC.
 	</tr>
   <tr>
 		<th>Frontend Technologies</th>
-		<td>Vue.js 3 & Nuxt.js, Compose Multiplatform </td>
+		<td>Vue.js 3 & Nuxt.js, React </td>
 	</tr>
   <tr>
 		<th>Database</th>
